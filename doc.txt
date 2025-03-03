@@ -1,0 +1,3 @@
+for Authentication: kinde
+database: Neo4j
+profile cards: React tinder card
